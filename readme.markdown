@@ -1,3 +1,5 @@
+## Original one is no longer available in GitHub. This one is temporary until the dependency is removed.
+
 # DEPRECATION NOTICE
 
 I don't want to maintain this module anymore since I just use
