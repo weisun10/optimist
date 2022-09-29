@@ -6,12 +6,6 @@
     "dependencies" : {
         "minimist" : "1.2.6"
     },
-    "devDependencies" : {
-        "tap" : "16.3.0"
-    },
-    "scripts" : {
-        "test" : "tap ./test/*.js"
-    },
     "repository" : {
         "type" : "git",
         "url" : "http://github.com/substack/node-optimist.git"
